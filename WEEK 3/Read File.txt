@@ -1,0 +1,8 @@
+
+For a compilation of published performance results on CIFAR 10, see
+
+http://rodrigob.github.io/are_we_there_yet/build/classification_datasets_results.html
+
+For details about CIFAR-10 see:
+
+https://www.cs.toronto.edu/~kriz/cifar.html
